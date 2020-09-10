@@ -1,0 +1,33 @@
+pushback 5
+pushback 15
+pushback 25
+pushback 35
+pushback 45
+pushback 55
+print
+popback
+popback
+pushfront 10
+pushfront 20
+pushfront 30
+pushfront 40
+pushfront 50
+print
+popfront
+popfront
+print
+popfront
+popfront
+popfront
+print
+popfront
+popfront
+popback
+popback
+print
+popfront
+popback
+popback
+popback
+popback
+popback
